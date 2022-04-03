@@ -102,4 +102,4 @@ function draw() {
   camera(X,Y,800,50,100,100);
 }
 ```
-
+![1](/img/3D-teamProject.gif)
